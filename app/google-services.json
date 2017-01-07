@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477523452929",
+    "firebase_url": "https://team83-89e5d.firebaseio.com",
+    "project_id": "team83-89e5d",
+    "storage_bucket": "team83-89e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477523452929:android:b2b31d3b293d1636",
+        "android_client_info": {
+          "package_name": "com.example.nirmit.team83"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477523452929-3kh3vo5i883nvvc00nlh5tvduuh532c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirmit.team83",
+            "certificate_hash": "4EBA83F6CD0D6582871D22932E8E44AF649DA25A"
+          }
+        },
+        {
+          "client_id": "477523452929-4v6um7kbnc30fneorgcskf4fbnkes8j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAFXsvoX_7qpdlONiLtaIO6znmy6F6MI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477523452929-4v6um7kbnc30fneorgcskf4fbnkes8j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
